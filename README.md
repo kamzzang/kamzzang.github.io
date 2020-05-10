@@ -16,6 +16,7 @@ kamzzang's Github Blog
 * 파워서플라이 컨트롤러(VuPower K1205D) [Link](https://github.com/kamzzang/ToyProject/tree/master/PowerSupplyController)  
 * 작업 스케줄러 자동 등록 [Link](https://github.com/kamzzang/ToyProject/tree/master/OAScheduler)  
 * 카카오톡 챗봇 [Link](https://github.com/kamzzang/ToyProject/tree/master/KakaoChatbot)
+* 매크로 프로그램(마우스 클릭 실행) [Link](https://github.com/kamzzang/ToyProject/tree/master/Macro)
 
 ## **Kaggle** [Link](https://github.com/kamzzang/Kaggle)
 * Bike Sharing Demend [Link](https://github.com/kamzzang/Kaggle/tree/master/Bike_Sharing_Demand)
