@@ -8,6 +8,8 @@ kamzzang's Github Blog
 * 주식 지수 크롤러, 모멘텀 알림 텔레그램 봇
 * 스키리조트 홈페이지 게시판 신규 공지사항 크롤러 & 텔레그램 봇
 * 주민센터 홈페이지 게시판 신규 공지사항 크롤러 & 텔레그램 봇
+* 건강보험심사평가원의 공적 마스크 판매정보 수집 크롤러
+* 증권사 추천주 레포트 정보 수집 크롤러
 
 ## **Toy Project** [Link](https://github.com/kamzzang/ToyProject)
 * 특허 검색 사이트(WIPS ON)에서 특허 검색 자동화 [Link](https://github.com/kamzzang/ToyProject/tree/master/PatentSearch)  
